@@ -46,7 +46,16 @@ public class TextRecognitionController {
         JSONObject res = client.basicGeneralUrl(url, options);
         return res.toString(2);
     }
-
+    /**
+     *
+     *
+     *萨顶顶多多多多多多多多多多多多多多多多多多多多多
+     *
+     *
+     * 增加注释
+     *
+     *
+     */
     @RequestMapping("/hk")
     public String hk() {
         String image = "C:\\Users\\fanls\\Desktop\\timg.jpg";
